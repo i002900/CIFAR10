@@ -1,7 +1,7 @@
 # CIFAR10
 Multi-Class Classification.
 
-The CIFAR10 dataset contains 60000 32X32 colour images in 10 utually exclusive classes: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship and Truck.
+The CIFAR10 dataset contains 60000 32X32 colour images in 10 mutually exclusive classes: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship and Truck.
 This project illustrates thde following:
 a) Build and deploy a multi-layer convolution neural network comprising of CONV2D filters, Batch normalization, Spatialdropout and Maxpoolng.
 b) Ability to accept images of any size
