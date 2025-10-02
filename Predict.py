@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 # Import Pre-Trained Model saved on C Drive
-my_model = load_model('C:/Users/jaish/cifar10_model_64_1.keras')
+my_model = load_model('myfinal_cifar10_model.keras')
 
 ## Variables
 # Class Names
